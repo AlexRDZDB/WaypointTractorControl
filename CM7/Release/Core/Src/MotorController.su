@@ -1,0 +1,2 @@
+../Core/Src/MotorController.c:24:6:setSpeed	8	static
+../Core/Src/MotorController.c:45:6:setAngle	0	static

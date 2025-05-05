@@ -1,0 +1,7 @@
+../Core/Src/main.c:99:6:avanzar	0	static
+../Core/Src/main.c:104:6:ProcessCANMessage	32	static
+../Core/Src/main.c:151:6:SendCANMessage	0	static
+../Core/Src/main.c:260:6:SystemClock_Config	128	static,ignoring_inline_asm
+../Core/Src/main.c:159:5:main	232	static,ignoring_inline_asm
+../Core/Src/main.c:634:6:parseMessage	8	static
+../Core/Src/main.c:650:6:Error_Handler	0	static,ignoring_inline_asm

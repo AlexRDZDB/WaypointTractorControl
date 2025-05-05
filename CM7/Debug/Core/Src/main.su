@@ -1,0 +1,16 @@
+../Core/Src/main.c:111:6:avanzar	8	static
+../Core/Src/main.c:116:6:ProcessCANMessage	16	static
+../Core/Src/main.c:143:6:SendCANMessage	4	static
+../Core/Src/main.c:151:5:main	216	static
+../Core/Src/main.c:306:6:SystemClock_Config	120	static
+../Core/Src/main.c:367:13:MX_FDCAN1_Init	16	static
+../Core/Src/main.c:455:13:MX_SPI5_Init	8	static
+../Core/Src/main.c:503:13:MX_TIM13_Init	40	static
+../Core/Src/main.c:549:13:MX_TIM14_Init	40	static
+../Core/Src/main.c:595:13:MX_TIM15_Init	40	static
+../Core/Src/main.c:641:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:689:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:724:6:parseMessage	24	static
+../Core/Src/main.c:734:6:Turning_SetAngle	32	static
+../Core/Src/main.c:754:6:MotorSetSpeed	16	static
+../Core/Src/main.c:767:6:Error_Handler	4	static,ignoring_inline_asm

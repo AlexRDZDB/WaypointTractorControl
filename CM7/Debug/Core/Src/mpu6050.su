@@ -1,0 +1,7 @@
+../Core/Src/mpu6050.c:35:6:mpu6050_init	48	static
+../Core/Src/mpu6050.c:79:19:MPU_writeAccFullScaleRange	40	static
+../Core/Src/mpu6050.c:116:19:MPU_writeGyroFullScaleRange	40	static
+../Core/Src/mpu6050.c:155:6:MPU_readRawData	48	static
+../Core/Src/mpu6050.c:172:6:MPU_readProcessedData	32	static
+../Core/Src/mpu6050.c:191:6:MPU_calibrateAccel	32	static
+../Core/Src/mpu6050.c:211:6:MPU_calibrateGyro	32	static
